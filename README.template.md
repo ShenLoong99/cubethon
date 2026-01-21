@@ -1,5 +1,7 @@
 <a id="readme-top"></a>
 
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -7,13 +9,21 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div>
    <h1>Cubethon (Unity Beginner Project)</h1>
    <p align="center"> 
-    <img src="Assets/cubethon.png" alt="cubethon" width="800"/><br>
+    <img src="Assets/cubethon.png" alt="cover-image" /><br>
     A Unity learning project built by following Brackeys’ Unity Beginner Tutorial playlist, using YouTube video transcripts as a structured guide to practice core Unity and C# game development fundamentals.
    </p><br>
-    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
+
+   <img src="https://img.shields.io/badge/Unity-600000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Scripting" />
+  <img src="https://img.shields.io/badge/URP-Modern%20Graphics-orange?style=for-the-badge" alt="URP" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Project-blue?style=for-the-badge" alt="Status" /><br><br>
+    
+![Last Commit](https://img.shields.io/github/last-commit/ShenLoong99/{{REPO_NAME}}?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/ShenLoong99/{{REPO_NAME}}?style=for-the-badge)
+
+   <a href="#about-the-project"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 <details>
@@ -177,7 +187,8 @@
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="contact">🙏 Acknowledgements</h2>
-<p>Special thanks to <strong>Brackeys</strong> for the legendary Unity tutorials that continue to help beginners enter game development.</p>
+<p>Special thanks to <strong><a href="https://www.youtube.com/@Brackeys">Brackeys</a></strong> for the legendary Unity tutorials that continue to help beginners enter game development.</p>
+<p>Tutorial: <a href="https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6">Unity Beginner Tutorials</a></p>
 <p>This repository is intended for learning and portfolio showcase purposes only.</p>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
