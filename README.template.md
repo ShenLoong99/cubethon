@@ -36,6 +36,7 @@
       <li><a href="#usage">Usage & Testing</a></li>
       <li><a href="#roadmap">Roadmap</a></li>
       <li><a href="#challenges">Challenges</a></li>
+      <li><a href="#acknowledgements">Acknowledgements</a></li>
    </ol>
 </details>
 <h2 id="about-the-project">About The Project</h2>
@@ -50,10 +51,6 @@
     <li>Learned how Unity scenes, scripts, and physics work together</li>
 </ul>
 <p>The focus of this project is learning by building, not creating a polished commercial game.</p>
-<p>
-    🎥 Tutorial Source:<br>
-    <a href="https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6"><strong>Brackeys – Unity Beginner Tutorial Playlist</strong></a>
-</p>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="built-with">Built With</h2>
@@ -186,7 +183,7 @@
 </table>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
-<h2 id="contact">🙏 Acknowledgements</h2>
+<h2 id="acknowledgements">🙏 Acknowledgements</h2>
 <p>Special thanks to <strong><a href="https://www.youtube.com/@Brackeys">Brackeys</a></strong> for the legendary Unity tutorials that continue to help beginners enter game development.</p>
 <p>Tutorial: <a href="https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6">Unity Beginner Tutorials</a></p>
 <p>This repository is intended for learning and portfolio showcase purposes only.</p>
